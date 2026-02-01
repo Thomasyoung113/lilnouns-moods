@@ -8,3 +8,6 @@ Deafult expression not available in .svg becase empty .svg-s can't exist.
 ## Usage guide
 
 ![](guide.jpg)
+## Moods Collection
+
+Express yourself with Lil Nouns moods! Each mood captures a unique emotion and vibe from the community.
